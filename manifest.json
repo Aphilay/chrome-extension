@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Alex Launcher",
-  "description": "Quick launch Alex career links",
+  "name": "Media Launcher",
+  "description": "Quick launch Media links",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
